@@ -1,1 +1,0 @@
-Este projeto tem por finalidade a criação de um APP de cadastro em memória usando técnologia .NET C#

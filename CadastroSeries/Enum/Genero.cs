@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CadastroSeries.Enum
+namespace CadastroSeries
 {
     public enum Genero
     {
